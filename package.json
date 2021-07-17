@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "u9g <winworkswow@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^3.7.0",
+    "proxy-agent": "^5.0.0",
+    "socks": "^2.6.1"
+  }
 }
